@@ -34,11 +34,13 @@ import { DeleteProductModalComponent } from './components/partials/modal/delete-
     HeaderPageComponent,
     QuickViewModalComponent,
     AddToCartComponent,
-    DeleteProductModalComponent
+    DeleteProductModalComponent,
+
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
